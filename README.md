@@ -52,3 +52,11 @@ pip install -r requirements.txt
 # run the server
 python3 app.py
 ```
+
+## Demo
+
+[demo](demo.png)
+
+> Javascript complexity not more than 10
+
+[jsc](jsc.png)

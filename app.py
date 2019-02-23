@@ -2,8 +2,6 @@
 from flask import Flask
 from flask import jsonify
 from flask_cors import CORS
-from flask import render_template
-import json
 import requests
 
 app = Flask(__name__, static_url_path='')
