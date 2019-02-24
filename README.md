@@ -55,8 +55,8 @@ python3 app.py
 
 ## Demo
 
-[demo](demo.png)
+![demo](demo.png)
 
 > Javascript complexity not more than 10
 
-[jsc](jsc.png)
+![jsc](jsc.png)
